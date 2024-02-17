@@ -1,5 +1,5 @@
 :root {
-    --gray: #b1b0af;
+    --gray: #e5e6da;
 }
 body {
     font-family: Arial, sans-serif;
@@ -14,7 +14,7 @@ article {
     color: red;
 } 
 header {
-    background-color: #8e8a8a;
+    background-color: #a4a3a3;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -47,7 +47,7 @@ main {
 }
 
 .product {
-    background-color: #f9f9f94e;
+    background-color: #f9f9f9e2;
     padding: 1rem;
     text-align: center;
     transition: transform 0.5s;
@@ -66,7 +66,7 @@ main {
 
 .price {
     font-weight: bold;
-    color: #333;
+    color: #e4dbdb;
 }
 .search {
     display: flex;
